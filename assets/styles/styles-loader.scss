@@ -1,0 +1,38 @@
+.body{
+    background-color:brown;
+    z-index: 1;
+}
+.btn btn-info{
+    z-index: 1;
+}
+.background{
+    size:100%;
+}
+.title{
+    color:rgb(227, 255, 45);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.txt{
+    width: 400px;
+}
+.risultati{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+}
+.col-sm-3{
+    color: lightblue;
+}
+.class3{
+    width:400px;
+    background-color: yellow;
+    z-index: 100;
+}
+.btn btn-warning{
+    z-index: 100;
+}
+.titleclass{
+    z-index: 100;
+}
